@@ -2,7 +2,7 @@
 
 	var createUpper = Spriteset_Map.prototype.createUpperLayer;
 	Spriteset_Map.prototype.createUpperLayer = function() {
-		createUpper.apply(this, arguments);
+		createUpper.call(this);
 		
 		var sprite = new Sprite();
 		sprite.bitmap = ImageManager.loadEnemy('Succubus');
