@@ -4,7 +4,7 @@
 RPGツクールMVのプラグイン素材をまとめたリポジトリです。
 
 ## 使い方
-まとめて保存する場合は、このページの右上にある [linkref]: https://github.com/YuminekoStudio/tkoolmv/archive/master.zip "Download ZIP" ボタンを押します。  
+まとめて保存する場合は、https://github.com/YuminekoStudio/tkoolmv/archive/master.zip よりどうぞ。  
 個別に保存する場合は、プラグインのページでRawボタンを右クリックしてください。
 
 ## 利用規約
