@@ -16,7 +16,7 @@ https://osdn.jp/projects/opensource/wiki/licenses/MIT_license
 ゲーム研究ブログ「弓猫チャンネル」管理人  
   
 プラグインの要望は常に受け付けていますが、対応を約束するものではありません。  
-Twitter：https://twitter.com/LuckyDuet
-ブログ：http://lucky-duet.com/
+Twitter：https://twitter.com/LuckyDuet  
+ブログ：http://lucky-duet.com/  
 ツクマテ：http://tm.lucky-duet.com/
 
